@@ -68,6 +68,7 @@
   <ItemGroup>
     <Build Include="Tablas\fabricante.sql" />
     <Build Include="Tablas\producto.sql" />
+    <Build Include="Read\consultas.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="TiendaDbProyecto.refactorlog" />
